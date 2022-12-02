@@ -10,7 +10,7 @@ List<int> insertionSort(List<int> input){
   }
   return input;
 }
-
+//here is the algorithm
 void main(List<String> arguments) {
   List<int> testArray = [4,5,1,3,2];
   print("Before sorting : $testArray");
